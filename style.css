@@ -118,6 +118,9 @@ button:hover{
 }
 .receita:hover{
     box-shadow: 2px 3px 3px 3px rgba(66, 66, 66, 0.63); 
+    border-radius: 8px;
+    -webkit-transform: translateX(-2px);
+    transform: translateX(-3px);
 }
 /* >>>>>>>>FOOTER<<<<<<< */
 footer{

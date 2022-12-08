@@ -1,4 +1,4 @@
-// Carna - 400g por pessoa + d 6 horas - 650
+// Carna - 400g por pessoa +  6 horas - 650
 // Cerveja - 1200ml por pessoa + 6 horas - 2000ml
 // Refrigerente/agua - 1000ml por pessoa + 6 horas 1500ml
 // Crianças valem por metade
